@@ -1502,4 +1502,4 @@ Copyright (c) 2025 云中江树
 
 ---
 
-- [MemTether](https://github.com/MemTether/MemTether) - 跨客户端 AI 记忆中枢，双时间轴治理，supersession 链，哈希链审计，9 个 MCP 工具。本地优先，零云端。 [PyPI](https://pypi.org/project/memtether/)
+- [MemTether](https://github.com/MemTether/MemTether) - 跨客户端 AI 记忆中枢，本地优先，SQLite 存储，含 MCP server。Apache-2.0.
